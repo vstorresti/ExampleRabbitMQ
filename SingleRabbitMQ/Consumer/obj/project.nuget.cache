@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CXIMTG/EJPR1TapB4OvT6rVasy+ZDyIypj+UkXz/gKXwI8UH0twJTKFba5S+cqY5rp/E8lD8Npl2qQL98oqnNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victo\\Desktop\\MeuGit\\RabbitMQ\\SingleRabbitMQ\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\jsonconverters.collections\\2.1.336\\jsonconverters.collections.2.1.336.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
